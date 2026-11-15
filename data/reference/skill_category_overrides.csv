@@ -1,0 +1,56 @@
+skill_uri,skill,group,subgroup,reason
+http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7,communication,Soft skills,social and communication skills and competences,ESCO classes it as knowledge
+http://data.europa.eu/esco/skill/a941f0e5-e015-4249-aaa4-25106dcbb4a1,cooperate with professionals,Soft skills,social and communication skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c,cooperate with colleagues,Soft skills,social and communication skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/f2f2cd3b-6afd-482e-80af-5823250ef0b8,cooperate at inter-professional level,Soft skills,social and communication skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,liaise with colleagues,Soft skills,social and communication skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/a17286c5-238d-4f0b-bc24-29e9121345de,listen actively,Soft skills,social and communication skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/996243ee-543f-4c36-a31a-e0f2403c0c5d,relate empathetically,Soft skills,social and communication skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/eade4171-3d57-4fb2-9518-44d5a1da4ff5,build trust,Soft skills,social and communication skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/8d202e22-85e9-47b1-a1e0-3296d17244cd,observe confidentiality,Soft skills,social and communication skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/07ba491f-2fd4-4bab-bf52-32934c6f0b9f,work in an international environment,Soft skills,social and communication skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108,team building,Soft skills,social and communication skills and competences,ESCO classes it as knowledge
+http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254,conflict management,Soft skills,social and communication skills and competences,ESCO classes it as knowledge
+http://data.europa.eu/esco/skill/a0cad388-3c4c-4786-b238-fc39f8c495af,assertiveness,Soft skills,social and communication skills and competences,ESCO classes it as knowledge
+http://data.europa.eu/esco/skill/59ad10b1-6f71-4dd4-ad1f-a1fdf68bc2fb,show professional responsibility,Soft skills,self-management skills and competences,ESCO classes it as a management skill
+http://data.europa.eu/esco/skill/5592ab32-4e7a-4cda-8e64-ca36d5de8a10,adapt to changing situations,Soft skills,self-management skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/1258cc12-37bb-4a12-b219-9c3d6b294533,work in an organised manner,Soft skills,self-management skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/91abe492-18be-4cce-93c7-0dca07072363,meet deadlines,Soft skills,self-management skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5,manage schedule of tasks,Soft skills,self-management skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/ebfe7b18-1fad-463f-9509-8ef1a5736045,perform services in a flexible manner,Soft skills,self-management skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/74aa45cf-175f-47ef-9978-d9de437d92ba,stay alert,Soft skills,self-management skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/519e801b-3cc4-44d4-bcf1-32fdb9a77e51,personal development,Soft skills,self-management skills and competences,ESCO classes it as knowledge
+http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800,develop strategy to solve problems,Soft skills,thinking skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/6c870993-9341-438b-91c0-c7fe4f96d8f5,apply strategic thinking,Soft skills,thinking skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/f975091a-e5a5-4472-ac17-11680e53e98f,seek innovation in current practices,Soft skills,thinking skills and competences,ESCO classes it as a job-specific skill
+http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e,Microsoft Access,Basic digital,,"Office tool, not programming"
+http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2,office software,Basic digital,,"Office tool, not programming"
+http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50,process data,Basic digital,,"Data entry, not programming"
+http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26,use markup languages,Technical / IT,,"Coding (HTML), not basic office use"
+http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3,administer ICT system,Technical / IT,,System administration
+http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420,maintain internet protocol configuration,Technical / IT,,Network administration
+http://data.europa.eu/esco/skill/d3e9b00a-0891-4fa8-836d-8240ec3d2758,GDPR,Knowledge,,"Data-protection law, not an IT skill"
+http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5,data protection,Knowledge,,"Data-protection law, not an IT skill"
+http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2,audit techniques,Knowledge,,"Audit knowledge, not an IT skill"
+http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e,Lean project management,Knowledge,,General project management
+http://data.europa.eu/esco/skill/7106b5df-e017-4c28-8c40-98814db5b775,Prince2 project management,Knowledge,,General project management
+http://data.europa.eu/esco/skill/95c35c3a-035f-47c2-90cf-7e934d20fc08,electronics,Knowledge,,"Engineering knowledge, not IT"
+http://data.europa.eu/esco/skill/4ff549c3-daa5-4def-9916-301c7bdf13b8,control systems,Knowledge,,"Engineering knowledge, not IT"
+http://data.europa.eu/esco/skill/bf1f763e-c505-46e7-8af3-e48f13ec5f44,control engineering,Knowledge,,"Engineering knowledge, not IT"
+http://data.europa.eu/esco/skill/f4a6e9f7-5cff-46c0-894c-59c20bb78694,automation technology,Knowledge,,"Engineering knowledge, not IT"
+http://data.europa.eu/esco/skill/e87ec79a-c9ff-46f5-84fa-7a0f394cdf40,robotics,Knowledge,,"Engineering knowledge, not IT"
+http://data.europa.eu/esco/skill/2c28fc20-8a60-4311-8899-5ef8729c05b3,design process,Knowledge,,"Design knowledge, not IT"
+http://data.europa.eu/esco/skill/7fb699d9-182a-430e-b7a0-6d8ed05c284b,graphic design,Knowledge,,"Design knowledge, not IT"
+http://data.europa.eu/esco/skill/378caeec-10a0-4162-b75c-ab374a42e93d,e-procurement,Knowledge,,"Purchasing knowledge, not IT"
+http://data.europa.eu/esco/skill/3d427a49-4f85-42cd-8a92-62d4a34f41a1,file documents,Job-specific skills,,Office administration task
+http://data.europa.eu/esco/skill/56a2fa94-a66d-40c6-a444-35888cdefa60,manage work,Job-specific skills,management skills,"Old ESCO skill, placed by hand"
+http://data.europa.eu/esco/skill/8538c0e3-902f-4e6f-a60c-0e1fd7e3a956,develop an organisational structure,Job-specific skills,management skills,"Old ESCO skill, placed by hand"
+http://data.europa.eu/esco/skill/51b53bb3-7a67-4ce8-b959-c7f6c4af3456,manage operational budgets,Job-specific skills,management skills,"Old ESCO skill, placed by hand"
+http://data.europa.eu/esco/skill/c3f8aaaa-7010-4e51-8b19-2e2623309718,create working methodology,Job-specific skills,management skills,"Old ESCO skill, placed by hand"
+http://data.europa.eu/esco/skill/202c0a90-e45f-4b9a-8bd2-694adc0f90e4,set hygiene standards,Job-specific skills,,"Old ESCO skill, placed by hand"
+http://data.europa.eu/esco/skill/739013e4-79ee-4026-b341-f0733ff210a1,assist equipment operation,Job-specific skills,,"Old ESCO skill, placed by hand"
+http://data.europa.eu/esco/skill/687c2470-c2bb-4891-a643-6bcee71a0ac5,install sprinkler systems,Job-specific skills,constructing,"Old ESCO skill, placed by hand"
+http://data.europa.eu/esco/skill/968ea96d-42d0-44fe-94b0-f11d84a8234d,Windows Phone,Technical / IT,information and communication technologies (icts),"Old ESCO skill, placed by hand"
+http://data.europa.eu/esco/skill/eeca3780-8049-499f-a268-95a7ad26642c,SaaS (service-oriented modelling),Technical / IT,information and communication technologies (icts),"Old ESCO skill, placed by hand"
+http://data.europa.eu/esco/skill/91fc256e-00ec-4367-b3b4-dcd564ed3fd2,acting and directing techniques,Knowledge,arts and humanities,"Old ESCO skill, placed by hand"
+http://data.europa.eu/esco/skill/1972c7f5-b157-42ad-bd7e-0e05cdfd5327,budget set costs,Job-specific skills,management skills,"Old ESCO skill, name matches two current skills"

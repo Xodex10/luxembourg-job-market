@@ -1,0 +1,16 @@
+# Large input files: GitHub rejects files over 100 MB.
+# Download them again from ADEM and ESCO (see README).
+data/raw/*
+!data/raw/.gitkeep
+data/reference/esco/*
+!data/reference/esco/.gitkeep
+
+# Tables made by notebook 02 and 03 (rebuilt when you run the notebooks)
+data/processed/*
+!data/processed/.gitkeep
+
+# Mac, R and Jupyter clutter
+.DS_Store
+.Rhistory
+.ipynb_checkpoints/
+__pycache__/

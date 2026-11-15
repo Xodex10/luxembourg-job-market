@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Luxembourg job skills, 2015–2026</title>
+<meta name="description" content="Which skills Luxembourg employers ask for in job vacancies, by skill group and occupation domain. Based on ADEM open data and ESCO.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22%3E%3Crect width=%2216%22 height=%2216%22 rx=%223%22 fill=%22%230a6b94%22/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://api.fontshare.com">
+<link href="https://api.fontshare.com/v2/css?f[]=general-sans@400,500,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js" defer></script>
+<script src="app.js" defer></script>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1>Luxembourg job skills</h1>
+    <p class="lede">What employers ask for in job vacancies, 2015–2026</p>
+  </div>
+</header>
+
+<nav class="filters" aria-label="Filters">
+  <div class="wrap filters-inner">
+    <div class="filter">
+      <span class="filter-label" id="group-label">Skill group</span>
+      <div class="pills" id="group-pills" role="radiogroup" aria-labelledby="group-label"></div>
+    </div>
+    <div class="filter filter-domain">
+      <label class="filter-label" for="domain-select">Occupation domain</label>
+      <select id="domain-select"></select>
+    </div>
+  </div>
+</nav>
+
+<main class="wrap">
+  <p class="status" id="status" role="status">Loading data…</p>
+
+  <section class="kpis" id="kpis" aria-label="Key figures"></section>
+
+  <section class="card">
+    <div class="card-head">
+      <h2 id="group-chart-title">Share of vacancies asking for each skill group</h2>
+      <p class="note">Percentage of vacancies with at least one skill. A vacancy can count in several groups. <span id="partial-note"></span></p>
+    </div>
+    <div class="chart-box"><canvas id="group-chart" aria-label="Share of vacancies per skill group and year" role="img"></canvas></div>
+  </section>
+
+  <section class="card">
+    <div class="card-head card-head-row">
+      <div>
+        <h2 id="table-title">Top skills</h2>
+        <p class="note" id="table-note"></p>
+      </div>
+      <div class="tabs" role="tablist" aria-label="Sort skills">
+        <button role="tab" data-sort="top" aria-selected="true">Most asked</button>
+        <button role="tab" data-sort="growing" aria-selected="false">Growing</button>
+        <button role="tab" data-sort="declining" aria-selected="false">Declining</button>
+      </div>
+    </div>
+    <div class="table-scroll">
+      <table class="skills">
+        <thead><tr>
+          <th class="num hide-sm">#</th><th>Skill</th><th class="hide-sm">Subgroup</th>
+          <th class="num hide-xs" id="th-early">2017–19</th><th class="num" id="th-recent">2023–25</th>
+          <th class="num">Change</th><th class="hide-sm">Trend</th><th class="hide-sm"></th>
+        </tr></thead>
+        <tbody id="skills-body"></tbody>
+      </table>
+    </div>
+    <div class="table-foot">
+      <button class="link-btn" id="more-btn">Show more</button>
+      <span class="note">Click a skill to add it to the chart below.</span>
+    </div>
+  </section>
+
+  <section class="card">
+    <div class="card-head card-head-row">
+      <div>
+        <h2>Compare skills over time</h2>
+        <p class="note">Percentage of vacancies asking for each skill</p>
+      </div>
+      <div class="search">
+        <label class="filter-label" for="skill-search">Add a skill</label>
+        <input id="skill-search" list="skill-options" placeholder="e.g. Python, SQL, German" autocomplete="off">
+        <datalist id="skill-options"></datalist>
+      </div>
+    </div>
+    <div class="chips" id="chips"></div>
+    <div class="chart-box"><canvas id="skill-chart" aria-label="Share of vacancies per selected skill and year" role="img"></canvas></div>
+  </section>
+
+  <section class="card method">
+    <h2>How to read this</h2>
+    <ul>
+      <li><strong>Vacancy share</strong>: the percentage of vacancies that mention a skill, out of vacancies with at least one skill. Raw counts are not used, because ads list more skills every year.</li>
+      <li><strong>Change</strong> is the difference in vacancy share between 2017–2019 and 2023–2025, in percentage points (hover it to see the ratio). A skill is <em class="tag up">Growing</em> if its share rose by at least 50%, and <em class="tag down">Declining</em> if it fell by at least a third. Rare skills are marked <em class="tag low">Few ads</em>.</li>
+      <li><strong>Skill groups</strong> come from the ESCO classification (language, transversal and digital lists, skill type), with manual corrections.</li>
+      <li>2026 covers January to August only and is drawn as a dashed line.</li>
+      <li>Skills are detected automatically in the ad text. A change can come from the detection method, not only from employers.</li>
+    </ul>
+    <p class="note" id="source-note"></p>
+  </section>
+</main>
+<footer class="wrap foot"><p class="note">Data: ADEM (Agence pour le développement de l'emploi), ESCO v1.2.1 (European Commission).</p></footer>
+</body>
+</html>
