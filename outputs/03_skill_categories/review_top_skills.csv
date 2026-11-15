@@ -1,0 +1,151 @@
+skill,group,subgroup,source,rule_group,esco_skill_type,reuse_level,mentions,vacancies,skill_uri
+communication,Soft skills,social and communication skills and competences,override,Knowledge,knowledge,cross-sector,92743,92743,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+English,Languages,languages,rule,Languages,knowledge,transversal,90509,90509,http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0
+use microsoft office,Basic digital,working with computers,rule,Basic digital,skill/competence,cross-sector,86344,86344,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+use technical documentation,Job-specific skills,information skills,rule,Job-specific skills,skill/competence,cross-sector,66640,66640,http://data.europa.eu/esco/skill/cffc3e97-e942-4b13-a2f3-0bf4910c06d3
+French,Languages,languages,rule,Languages,knowledge,transversal,64897,64897,http://data.europa.eu/esco/skill/e747e77e-0ea1-4001-8b07-1d11946b5f1b
+cooperate with professionals,Soft skills,social and communication skills and competences,override,Job-specific skills,skill/competence,sector-specific,64392,64392,http://data.europa.eu/esco/skill/a941f0e5-e015-4249-aaa4-25106dcbb4a1
+computer technology,Technical / IT,"engineering, manufacturing and construction",rule,Technical / IT,knowledge,cross-sector,61501,61501,http://data.europa.eu/esco/skill/ddc3119d-1d6e-4324-9125-a3380d299ac5
+work in teams,Soft skills,social and communication skills and competences,rule,Soft skills,skill/competence,transversal,54345,54345,http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0
+work independently,Soft skills,self-management skills and competences,rule,Soft skills,skill/competence,transversal,53887,53887,http://data.europa.eu/esco/skill/c29aa9d2-4da8-4bdd-831c-8d4a2fb51730
+German,Languages,languages,rule,Languages,knowledge,transversal,49645,49645,http://data.europa.eu/esco/skill/4812a4ea-dc55-4dc6-b9b0-4a59bba2c647
+use spreadsheets software,Basic digital,working with computers,rule,Basic digital,skill/competence,cross-sector,43404,43404,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be
+computer science,Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,cross-sector,39204,39204,http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787
+think creatively,Soft skills,thinking skills and competences,rule,Soft skills,skill/competence,transversal,36595,36595,http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41
+plan,Soft skills,thinking skills and competences,rule,Soft skills,skill/competence,transversal,35874,35874,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a
+economics,Knowledge,"social sciences, journalism and information",rule,Knowledge,knowledge,cross-sector,35632,35632,http://data.europa.eu/esco/skill/88af9294-b697-4687-ae19-aefbb6234dfa
+show professional responsibility,Soft skills,self-management skills and competences,override,Job-specific skills,skill/competence,cross-sector,35483,35483,http://data.europa.eu/esco/skill/59ad10b1-6f71-4dd4-ad1f-a1fdf68bc2fb
+use word processing software,Basic digital,working with computers,rule,Basic digital,skill/competence,cross-sector,32735,32735,http://data.europa.eu/esco/skill/81633a44-f1db-4a01-a940-804c6905e330
+accounting,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,31511,31511,http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b
+business knowledge,Knowledge,"business, administration and law",rule,Knowledge,knowledge,sector-specific,28289,28289,http://data.europa.eu/esco/skill/fcb2b5f4-3a64-42f2-987a-073bea986104
+sales activities,Knowledge,"business, administration and law",rule,Knowledge,knowledge,sector-specific,26928,26928,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d
+adapt to changing situations,Soft skills,self-management skills and competences,override,Job-specific skills,skill/competence,cross-sector,26519,26519,http://data.europa.eu/esco/skill/5592ab32-4e7a-4cda-8e64-ca36d5de8a10
+adapt to change,Soft skills,self-management skills and competences,rule,Soft skills,skill/competence,transversal,23281,23281,http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4
+use presentation software,Basic digital,working with computers,rule,Basic digital,skill/competence,cross-sector,23174,23174,http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb
+attend to detail,Soft skills,self-management skills and competences,rule,Soft skills,skill/competence,transversal,21548,21548,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+project commissioning,Knowledge,"business, administration and law",rule,Knowledge,knowledge,sector-specific,21265,21265,http://data.europa.eu/esco/skill/4ca91852-c534-4b98-ab1c-59a126534c88
+project management,Knowledge,"business, administration and law",rule,Knowledge,knowledge,sector-specific,20892,20892,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+consultation,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,19847,19847,http://data.europa.eu/esco/skill/4b3c8605-819d-4b38-83fc-f23663e78dc9
+manage time,Soft skills,self-management skills and competences,rule,Soft skills,skill/competence,transversal,17808,17808,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+work in an organised manner,Soft skills,self-management skills and competences,override,Job-specific skills,skill/competence,cross-sector,17336,17336,http://data.europa.eu/esco/skill/1258cc12-37bb-4a12-b219-9c3d6b294533
+report facts,Soft skills,social and communication skills and competences,rule,Soft skills,skill/competence,transversal,17249,17249,http://data.europa.eu/esco/skill/be6ab363-3de1-427f-a8ef-85d5b0250822
+conduct cleaning tasks,Job-specific skills,handling and moving,rule,Job-specific skills,skill/competence,cross-sector,15203,15203,http://data.europa.eu/esco/skill/1448431a-4fe5-4ca3-83db-665e0df3f130
+customer service,Knowledge,"business, administration and law",rule,Knowledge,knowledge,sector-specific,15149,15149,http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc
+logistics,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,14911,14911,http://data.europa.eu/esco/skill/e843973c-23dd-416a-8a9c-9e89512542fb
+assume responsibility,Soft skills,self-management skills and competences,rule,Soft skills,skill/competence,transversal,14820,14820,http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1
+computer programming,Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,cross-sector,14757,14757,http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97
+statistics,Knowledge,"natural sciences, mathematics and statistics",rule,Knowledge,knowledge,cross-sector,14489,14489,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+SQL,Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,sector-specific,14423,14423,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742
+lead others,Soft skills,social and communication skills and competences,rule,Soft skills,skill/competence,transversal,14390,14390,http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207
+database management systems,Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,sector-specific,13904,13904,http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f
+advise others,Soft skills,social and communication skills and competences,rule,Soft skills,skill/competence,transversal,13201,13201,http://data.europa.eu/esco/skill/045f71e6-0699-4169-8a54-9c6b96f3174d
+perform clerical duties,Job-specific skills,management skills,rule,Job-specific skills,skill/competence,cross-sector,13061,13061,http://data.europa.eu/esco/skill/ab986bc4-df92-4351-9ac1-aa75af943cf7
+marketing principles,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,12665,12665,http://data.europa.eu/esco/skill/de03f4fd-c147-4477-a048-7109e5ba2d6f
+manage a team,Job-specific skills,management skills,rule,Job-specific skills,skill/competence,cross-sector,12553,12553,http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b
+keep company,Job-specific skills,assisting and caring,rule,Job-specific skills,skill/competence,cross-sector,12467,12467,http://data.europa.eu/esco/skill/ff939984-b1a6-4d57-88bd-e453262433c4
+observe confidentiality,Soft skills,social and communication skills and competences,override,Job-specific skills,skill/competence,cross-sector,12194,12194,http://data.europa.eu/esco/skill/8d202e22-85e9-47b1-a1e0-3296d17244cd
+risk management,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,11979,11979,http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0
+database,Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,cross-sector,11555,11555,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+Microsoft Access,Basic digital,information and communication technologies (icts),override,Technical / IT,knowledge,sector-specific,11273,11273,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e
+ICT project management methodologies,Technical / IT,"business, administration and law",rule,Technical / IT,knowledge,sector-specific,10296,10296,http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9
+electrical machines,Knowledge,"engineering, manufacturing and construction",rule,Knowledge,knowledge,cross-sector,10236,10236,http://data.europa.eu/esco/skill/f0ab5d57-4be7-411b-afce-b4a76a142302
+mathematics,Knowledge,"natural sciences, mathematics and statistics",rule,Knowledge,knowledge,cross-sector,10147,10147,http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2
+apply HACCP,Job-specific skills,assisting and caring,rule,Job-specific skills,skill/competence,cross-sector,9141,9141,http://data.europa.eu/esco/skill/5ba1d5b9-3f8d-46ca-bf9f-2e9ca65d1350
+periodisation,Knowledge,arts and humanities,rule,Knowledge,knowledge,cross-sector,8992,8992,http://data.europa.eu/esco/skill/d47b9f28-8131-4efd-8801-53f226955f21
+assertiveness,Soft skills,social and communication skills and competences,override,Knowledge,knowledge,sector-specific,8873,8873,http://data.europa.eu/esco/skill/a0cad388-3c4c-4786-b238-fc39f8c495af
+communicate with customers,Job-specific skills,"communication, collaboration and creativity",rule,Job-specific skills,skill/competence,cross-sector,8760,8760,http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127
+troubleshoot,Job-specific skills,"communication, collaboration and creativity",rule,Job-specific skills,skill/competence,cross-sector,8193,8193,http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40
+manage staff,Job-specific skills,management skills,rule,Job-specific skills,skill/competence,cross-sector,8149,8149,http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb
+negotiate compromises,Soft skills,social and communication skills and competences,rule,Soft skills,skill/competence,transversal,8080,8080,http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74
+SAP Data Services,Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,sector-specific,7877,7877,http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4
+promote sustainability,Job-specific skills,"communication, collaboration and creativity",rule,Job-specific skills,skill/competence,cross-sector,7688,7688,http://data.europa.eu/esco/skill/469e19ed-a0bd-445a-ae2d-4ba9430e296b
+data models,Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,sector-specific,7668,7668,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+lead a team,Job-specific skills,management skills,rule,Job-specific skills,skill/competence,cross-sector,7576,7576,http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb
+real estate market,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,7502,7502,http://data.europa.eu/esco/skill/6f6163dc-a801-416c-86e9-ce857d71c24d
+security regulations,Knowledge,services,rule,Knowledge,knowledge,sector-specific,7275,7275,http://data.europa.eu/esco/skill/d433c82e-fa7a-492e-a8fd-eee7b39e4c48
+operating systems,Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,sector-specific,6896,6896,http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272
+Python (computer programming),Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,sector-specific,6890,6890,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d
+meet deadlines,Soft skills,self-management skills and competences,override,Job-specific skills,skill/competence,cross-sector,6688,6688,http://data.europa.eu/esco/skill/91abe492-18be-4cce-93c7-0dca07072363
+assist in fund management,Job-specific skills,assisting and caring,rule,Job-specific skills,skill/competence,occupation-specific,6672,6672,http://data.europa.eu/esco/skill/de07a5bd-f50c-4bf9-a767-48dfdaf8722b
+human resource management,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,6595,6595,http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba
+show initiative,Soft skills,self-management skills and competences,rule,Soft skills,skill/competence,transversal,6450,6450,http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f
+cope with stress,Soft skills,self-management skills and competences,rule,Soft skills,skill/competence,transversal,6424,6424,http://data.europa.eu/esco/skill/7a147904-22b3-498a-b4d9-7bceeb86b45d
+Java (computer programming),Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,sector-specific,6327,6327,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+entrepreneurship,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,6232,6232,http://data.europa.eu/esco/skill/658605f2-1c95-49f0-bd98-0af7b15ad0b0
+cooperate at inter-professional level,Soft skills,social and communication skills and competences,override,Job-specific skills,skill/competence,sector-specific,6163,6163,http://data.europa.eu/esco/skill/f2f2cd3b-6afd-482e-80af-5823250ef0b8
+improve business processes,Job-specific skills,management skills,rule,Job-specific skills,skill/competence,cross-sector,6106,6106,http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14
+international financial reporting standards,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,6067,6067,http://data.europa.eu/esco/skill/4a855abe-ac5b-4e95-ac10-3c1adceeee28
+use cooking techniques,Job-specific skills,assisting and caring,rule,Job-specific skills,skill/competence,sector-specific,5973,5973,http://data.europa.eu/esco/skill/f3934441-4bff-4076-9945-e6c51a01c467
+financial statements,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,5655,5655,http://data.europa.eu/esco/skill/4a460161-eaea-4fe2-bd0e-164ccc635be1
+financial analysis,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,5634,5634,http://data.europa.eu/esco/skill/99571e68-801f-49af-a897-5f75996642e1
+financial markets,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,5502,5502,http://data.europa.eu/esco/skill/905b6acd-377b-46b9-9d80-e47e9ca789ca
+mechanics,Knowledge,"engineering, manufacturing and construction",rule,Knowledge,knowledge,cross-sector,5477,5477,http://data.europa.eu/esco/skill/efa141df-f382-418f-9121-bd88fd735669
+Agile project management,Technical / IT,"business, administration and law",rule,Technical / IT,knowledge,sector-specific,5465,5465,http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4
+build business relationships,Job-specific skills,"communication, collaboration and creativity",rule,Job-specific skills,skill/competence,cross-sector,5463,5463,http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1
+electricity,Knowledge,"engineering, manufacturing and construction",rule,Knowledge,knowledge,cross-sector,5461,5461,http://data.europa.eu/esco/skill/c8ac1986-38fa-43b2-89dc-50a4beeb420e
+securities,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,5305,5305,http://data.europa.eu/esco/skill/749ce4c2-4dfd-461a-a8f3-0f6914814d3e
+pedagogy,Knowledge,education,rule,Knowledge,knowledge,cross-sector,5285,5285,http://data.europa.eu/esco/skill/a117f32c-662b-4dd9-b739-1230dd04cb60
+energy,Knowledge,"engineering, manufacturing and construction",rule,Knowledge,knowledge,cross-sector,5259,5259,http://data.europa.eu/esco/skill/1e38f5be-bb7d-42c5-8301-c16cf400f8ee
+customer relationship management,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,5252,5252,http://data.europa.eu/esco/skill/dc9a236c-c640-43c3-812f-269403591edb
+business processes,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,5084,5084,http://data.europa.eu/esco/skill/9e84a506-df06-4be3-874a-fa01293e3dd5
+assist customers,Job-specific skills,assisting and caring,rule,Job-specific skills,skill/competence,sector-specific,5046,5046,http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3
+electronics,Knowledge,"engineering, manufacturing and construction",override,Technical / IT,knowledge,cross-sector,5035,5035,http://data.europa.eu/esco/skill/95c35c3a-035f-47c2-90cf-7e934d20fc08
+demonstrate curiosity,Soft skills,self-management skills and competences,rule,Soft skills,skill/competence,transversal,5013,5013,http://data.europa.eu/esco/skill/429062f1-a958-43ea-83dd-4e1af078c156
+greet guests,Job-specific skills,assisting and caring,rule,Job-specific skills,skill/competence,cross-sector,4887,4887,http://data.europa.eu/esco/skill/26a6e6d2-1c9a-4d7e-8c04-5ba16d1f53da
+think innovately,Soft skills,thinking skills and competences,rule,Soft skills,skill/competence,transversal,4808,4808,http://data.europa.eu/esco/skill/c2a0c52c-0b4b-4180-a918-92650ea3b458
+show commitment,Soft skills,self-management skills and competences,rule,Soft skills,skill/competence,transversal,4792,4792,http://data.europa.eu/esco/skill/1fce1197-3a5b-45b7-8797-575cd3b57a01
+Portuguese,Languages,languages,rule,Languages,knowledge,transversal,4671,4671,http://data.europa.eu/esco/skill/584c13e8-fd06-4ca3-a45b-cca5b2f147a7
+quality assurance methodologies,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,4644,4644,http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f
+solve problems,Soft skills,thinking skills and competences,rule,Soft skills,skill/competence,transversal,4598,4598,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+office software,Basic digital,information and communication technologies (icts),override,Technical / IT,knowledge,cross-sector,4562,4562,http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2
+personal development,Soft skills,self-management skills and competences,override,Knowledge,knowledge,cross-sector,4556,4556,http://data.europa.eu/esco/skill/519e801b-3cc4-44d4-bcf1-32fdb9a77e51
+logging,Knowledge,"agriculture, forestry, fisheries and veterinary",rule,Knowledge,knowledge,sector-specific,4502,4502,http://data.europa.eu/esco/skill/e8488824-3865-4d2a-97e9-fe4647d6add3
+politics,Knowledge,"social sciences, journalism and information",rule,Knowledge,knowledge,cross-sector,4499,4499,http://data.europa.eu/esco/skill/3cbe8b8d-69ba-4faa-9a7c-4cb95769df88
+data protection,Knowledge,information and communication technologies (icts),override,Technical / IT,knowledge,sector-specific,4402,4402,http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5
+support managers,Job-specific skills,"communication, collaboration and creativity",rule,Job-specific skills,skill/competence,cross-sector,4353,4353,http://data.europa.eu/esco/skill/4bd6e2ad-bf69-4198-b3ac-3baabd9da46e
+process data,Basic digital,information skills,override,Technical / IT,skill/competence,cross-sector,4314,4314,http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50
+characteristics of services,Knowledge,"business, administration and law",rule,Knowledge,knowledge,sector-specific,4304,4304,http://data.europa.eu/esco/skill/fb3bc9b5-2297-4bba-85b1-60f696a92db8
+Italian,Languages,languages,rule,Languages,knowledge,transversal,4150,4150,http://data.europa.eu/esco/skill/87219dfe-a21c-4160-8cc8-1eabf9b16b44
+make decisions,Soft skills,self-management skills and competences,rule,Soft skills,skill/competence,transversal,4143,4143,http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47
+cooperate with colleagues,Soft skills,social and communication skills and competences,override,Job-specific skills,skill/competence,cross-sector,4130,4130,http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c
+machinery products,Knowledge,"business, administration and law",rule,Knowledge,knowledge,sector-specific,4107,4107,http://data.europa.eu/esco/skill/70198e4e-86ad-4acc-a9eb-e24e2c107d18
+linguistics__,Knowledge,arts and humanities,rule,Knowledge,knowledge,cross-sector,4107,4107,http://data.europa.eu/esco/skill/810df100-e85a-4c13-b619-34030a75ecc2
+financial products,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,4016,4016,http://data.europa.eu/esco/skill/0bd4c62a-c309-467e-be76-8403b3f3a1a8
+manage securities,Job-specific skills,management skills,rule,Job-specific skills,skill/competence,cross-sector,4013,4013,http://data.europa.eu/esco/skill/1638fad2-6858-477d-8ee9-2aa463870602
+perform project management,Job-specific skills,information skills,rule,Job-specific skills,skill/competence,cross-sector,3889,3889,http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68
+process applications,Job-specific skills,information skills,rule,Job-specific skills,skill/competence,occupation-specific,3848,3848,http://data.europa.eu/esco/skill/91d06ad9-245e-4ecb-bd18-624eed884108
+business analysis,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,3843,3843,http://data.europa.eu/esco/skill/633a3637-2c6b-40ae-ac38-289eb2a62aa6
+Spanish,Languages,languages,rule,Languages,knowledge,transversal,3841,3841,http://data.europa.eu/esco/skill/14ee9f76-3524-43d5-8a1a-5ba8283f8bd7
+quality assurance procedures,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,3823,3823,http://data.europa.eu/esco/skill/1177c6f5-09c5-4c35-873c-afd22d170ad3
+apply information security policies,Job-specific skills,assisting and caring,rule,Job-specific skills,skill/competence,sector-specific,3794,3794,http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8
+manage processes,Job-specific skills,management skills,rule,Job-specific skills,skill/competence,cross-sector,3767,3767,http://data.europa.eu/esco/skill/940a70fa-7c58-423b-8d03-34920b59f0f7
+stock market,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,3618,3618,http://data.europa.eu/esco/skill/b895bd42-0009-4815-a150-eb9eb5caec21
+alter management,Job-specific skills,management skills,rule,Job-specific skills,skill/competence,cross-sector,3614,3614,http://data.europa.eu/esco/skill/06fa9997-1720-45e8-a0cf-ee3060049f8b
+health and safety regulations,Knowledge,services,rule,Knowledge,knowledge,cross-sector,3613,3613,http://data.europa.eu/esco/skill/f2f463e5-2382-49cb-8199-e7e043d868df
+work in an international environment,Soft skills,social and communication skills and competences,override,Job-specific skills,skill/competence,sector-specific,3540,3540,http://data.europa.eu/esco/skill/07ba491f-2fd4-4bab-bf52-32934c6f0b9f
+track key performance indicators,Job-specific skills,information skills,rule,Job-specific skills,skill/competence,cross-sector,3491,3491,http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40
+operate 3D computer graphics software,Technical / IT,"communication, collaboration and creativity",rule,Technical / IT,skill/competence,sector-specific,3470,3470,http://data.europa.eu/esco/skill/f5b33464-4df9-4cf3-b468-b0a2d6b3ee85
+leasing process,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,3459,3459,http://data.europa.eu/esco/skill/a0225b42-4c3a-4551-962b-9facffa07d4c
+use accounting systems,Job-specific skills,management skills,rule,Job-specific skills,skill/competence,cross-sector,3438,3438,http://data.europa.eu/esco/skill/a0d79341-8398-4019-ad1b-27888ec35aaa
+patents,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,3424,3424,http://data.europa.eu/esco/skill/1349751e-dfb5-492e-89af-e7d9bd2546ac
+coaching techniques,Knowledge,education,rule,Knowledge,knowledge,cross-sector,3415,3415,http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0
+JavaScript,Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,sector-specific,3388,3388,http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7
+perform customer management,Job-specific skills,assisting and caring,rule,Job-specific skills,skill/competence,cross-sector,3380,3380,http://data.europa.eu/esco/skill/91306a20-9b81-4f3d-97eb-f5368b607da7
+manage accounts,Job-specific skills,management skills,rule,Job-specific skills,skill/competence,cross-sector,3373,3373,http://data.europa.eu/esco/skill/e2e15494-65b9-4af5-8b86-53fb51e7e022
+interact verbally in French,Languages,languages,rule,Languages,skill/competence,transversal,3343,3343,http://data.europa.eu/esco/skill/bfb5f0b8-0ea0-4e44-a48d-7d876f966758
+drive vehicles,Job-specific skills,working with machinery and specialised equipment,rule,Job-specific skills,skill/competence,cross-sector,3329,3329,http://data.europa.eu/esco/skill/2a82241a-216e-44d8-bb50-6b9a0ef82084
+construction methods,Knowledge,"engineering, manufacturing and construction",rule,Knowledge,knowledge,cross-sector,3302,3302,http://data.europa.eu/esco/skill/cc173f61-3386-44c5-a048-3889e1ec9114
+coach clients,Job-specific skills,"communication, collaboration and creativity",rule,Job-specific skills,skill/competence,cross-sector,3223,3223,http://data.europa.eu/esco/skill/fcd7dbd4-095d-448d-b605-89e8ac6a3d92
+management department processes,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,3198,3198,http://data.europa.eu/esco/skill/848b5879-10af-4e3a-bfbf-263956b4ebf3
+counsel clients,Job-specific skills,"communication, collaboration and creativity",rule,Job-specific skills,skill/competence,cross-sector,3159,3159,http://data.europa.eu/esco/skill/ac6ff889-328b-46ea-a8ee-e196443b2447
+journalism,Knowledge,"social sciences, journalism and information",rule,Knowledge,knowledge,cross-sector,3140,3140,http://data.europa.eu/esco/skill/3391d6dd-d584-4c8c-9af9-d2f0c45e2b4b
+first aid,Knowledge,health and welfare,rule,Knowledge,knowledge,cross-sector,3134,3134,http://data.europa.eu/esco/skill/f7464f30-662b-4177-85a0-3df9693e9e58
+production processes,Knowledge,"engineering, manufacturing and construction",rule,Knowledge,knowledge,cross-sector,3128,3128,http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77
+quality standards,Knowledge,"business, administration and law",rule,Knowledge,knowledge,cross-sector,3123,3123,http://data.europa.eu/esco/skill/8d4271ca-c9fd-40b3-875f-15f78332a49e
+civil engineering,Knowledge,"engineering, manufacturing and construction",rule,Knowledge,knowledge,cross-sector,3120,3120,http://data.europa.eu/esco/skill/82887396-e5bf-4306-af51-3fe8d82790b2
+ensure customer orientation,Job-specific skills,"communication, collaboration and creativity",rule,Job-specific skills,skill/competence,cross-sector,3091,3091,http://data.europa.eu/esco/skill/5b0f2198-7246-4256-a902-4d9ce1260c80
+use markup languages,Technical / IT,working with computers,override,Basic digital,skill/competence,sector-specific,3032,3032,http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26
+contact customers,Job-specific skills,"communication, collaboration and creativity",rule,Job-specific skills,skill/competence,sector-specific,3000,3000,http://data.europa.eu/esco/skill/81513fdf-5ea9-4375-9bc4-67ad959ac5de
+advise on customs regulations,Job-specific skills,"communication, collaboration and creativity",rule,Job-specific skills,skill/competence,sector-specific,2987,2987,http://data.europa.eu/esco/skill/00ff06cc-103f-4c85-b5df-6f75acff6abf
+Oracle Warehouse Builder,Technical / IT,information and communication technologies (icts),rule,Technical / IT,knowledge,sector-specific,2984,2984,http://data.europa.eu/esco/skill/23900e3d-06fa-424c-a5dc-c0ea42edde1e
+security panels,Knowledge,information and communication technologies (icts),rule,Knowledge,knowledge,cross-sector,2946,2946,http://data.europa.eu/esco/skill/bf3e70b4-b65e-4595-81d4-e3bb846f0672
