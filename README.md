@@ -2,7 +2,7 @@
 
 Which skills do employers in Luxembourg ask for, and how has that changed? This project uses about 276,000 job vacancies with detected skills, sent to ADEM (the Luxembourg public employment service) from 2015 to 2026. It sorts every skill into six groups and publishes the results as a small interactive website.
 
-**Live website:** https://YOUR-USERNAME.github.io/luxembourg-job-market/
+**Live website:** https://Xodex10.github.io/luxembourg-job-market/
 
 ![Screenshot of the website](docs/images/website.png)
 
